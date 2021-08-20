@@ -1,5 +1,5 @@
 {
-  "name": "first_rails_app",
+  "name": "first-rails-app",
   "private": true,
   "dependencies": {
     "@rails/ujs": "^6.0.0",
